@@ -1,7 +1,6 @@
 package com.emmanuel.Projeto_OS.controller;
 
 
-import com.emmanuel.Projeto_OS.model.Cliente;
 import com.emmanuel.Projeto_OS.model.Produto;
 import com.emmanuel.Projeto_OS.service.ProdutoService;
 import jakarta.validation.Valid;

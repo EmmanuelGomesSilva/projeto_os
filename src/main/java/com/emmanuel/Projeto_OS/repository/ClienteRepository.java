@@ -6,8 +6,8 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 // Repository do Cliente
-// Extende JpaRepository para fornecer métodos CRUD prontos (save, findAll, findById, deleteById, etc)
-// Aqui podemos adicionar queries customizadas se necessário
+// Fornece métodos CRUD automáticos (save, findAll, findById, deleteById, etc)
+// Permite criar consultas customizadas se necessário
 public interface ClienteRepository extends JpaRepository<Cliente, Long> {
 
 }

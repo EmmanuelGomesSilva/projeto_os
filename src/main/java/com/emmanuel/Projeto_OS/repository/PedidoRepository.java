@@ -5,8 +5,8 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-// Repository do pedido
-// Fornece métodos CRUD para a entidade pedido
-// É aqui que a camada de Service interage para salvar, buscar, atualizar e remover ordens
+// Repository do Pedido
+// Fornece métodos CRUD automáticos para a entidade Pedido
+// Permite criar consultas customizadas usando Spring Data JPA, caso necessário
 public interface PedidoRepository extends JpaRepository<Pedido, Long> {
 }

@@ -2,8 +2,7 @@ package com.emmanuel.Projeto_OS.service;
 
 import com.emmanuel.Projeto_OS.model.Cliente;
 import com.emmanuel.Projeto_OS.repository.ClienteRepository;
-import com.emmanuel.Projeto_OS.repository.PedidoRepository;
-import com.emmanuel.Projeto_OS.repository.ProdutoRepository;
+
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

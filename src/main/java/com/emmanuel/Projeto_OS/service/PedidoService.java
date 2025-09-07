@@ -1,8 +1,6 @@
 package com.emmanuel.Projeto_OS.service;
 
-import com.emmanuel.Projeto_OS.model.Cliente;
 import com.emmanuel.Projeto_OS.model.Pedido;
-import com.emmanuel.Projeto_OS.model.Produto;
 import com.emmanuel.Projeto_OS.repository.PedidoRepository;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
