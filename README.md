@@ -170,7 +170,6 @@ Recomendado utilizar **Insomnia** (ou **Postman**) para testar todos os endpoint
 
 ## 📂 Deploy & Portfólio (Planejado)
 
-- Deploy sugerido: Heroku, Railway ou outro.
 - Incluir prints dos testes e links no LinkedIn ou portfólio.
 
 ---
